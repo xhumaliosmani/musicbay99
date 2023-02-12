@@ -1,13 +1,6 @@
-# Project Lyrics
+Spotify clone using the shazamCore rapid API 
 
-Develop an elegant React.js Music Application. 
-
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
-
-# Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue.
-Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+- If you want to clone this you need to rename the .env.samle to .env and put in ur shazamCore api key from rapidapi shazamcore and then the GoeLocation api key from geo.ipify.org in the .env file and everything should work fine 
 
 
 ## System Requirements
